@@ -1,0 +1,15 @@
+# Editors/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs and junk
+*.log
+*.tmp
+*.bak
+*~
+
+# Node or tooling (if any used later)
+node_modules/
