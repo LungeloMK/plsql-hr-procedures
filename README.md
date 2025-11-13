@@ -21,6 +21,4 @@ PL/SQL examples using the Oracle HR schema, including:
 - Uses `%TYPE` anchors against HR tables for type safety.
 - Uses an explicit join for department lookup.
 
-## License
 
-Private repository.
